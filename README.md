@@ -1,6 +1,6 @@
-Nama : Sitti Mahmudah
+Nama : Siska Nur Aini
 
-NIM : E41201553
+NIM : E41202291
 
 Prodi : Teknik Informatika
 
